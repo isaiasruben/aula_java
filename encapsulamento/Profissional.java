@@ -29,5 +29,15 @@ public class Profissional {
     {
         return "Trabalhador Privado";
     }
+
+    public Integer getId()
+    {
+        return id;
+    }
+
+    public void setId(Integer id)
+    {
+        this.id=id;
+    }
     
 }

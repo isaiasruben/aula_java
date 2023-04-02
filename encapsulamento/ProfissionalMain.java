@@ -1,3 +1,4 @@
+package encapsulamento;
 class ProfissionalMain
 {
     public static void main(String[] args) 
